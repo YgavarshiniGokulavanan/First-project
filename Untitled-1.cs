@@ -2,8 +2,10 @@
 
 swastikA
 classesa rep
-time table chairs
+time tab
+rush hour
+le chairs
 bad news
 auditorium
-holiday
+tutorial
 anew classes
